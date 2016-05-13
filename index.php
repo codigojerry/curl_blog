@@ -27,7 +27,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
 
-    <h2>cURL</h2>
+    <h2>cURL</h2> https://codigojerry.blogspot.com/
 
     <form method="POST" action="<?php echo $_SERVER["PHP_SELF"] ?>">
 		Nombre: <input type="text" name="usuario" placeholder="Entre usuario" required="required" />
